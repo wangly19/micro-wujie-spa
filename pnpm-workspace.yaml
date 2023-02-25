@@ -1,0 +1,3 @@
+packages:
+  - 'micro-app/**'
+  - 'root-app/**'
